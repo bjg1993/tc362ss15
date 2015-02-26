@@ -1,0 +1,4 @@
+Server IP: 104.131.203.109
+
+Domain1:brandonjgirard.me
+Domain2:subdomain.brandonjgirard.me
